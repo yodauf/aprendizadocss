@@ -1,5 +1,12 @@
+/* reset do css*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 body {
-    background: #00FFFF;
+    background-image: url('https://ohlaladani.com.br/wp-content/uploads/wallpaper-OHLALADANI_DESKTOP_WALLPAPERS_AVENTURA-2.jpg');
     backgroun-size: 100vh;
     font-family: Arial;
     height: 100vh;
